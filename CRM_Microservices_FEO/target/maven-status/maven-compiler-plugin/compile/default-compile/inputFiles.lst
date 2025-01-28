@@ -1,0 +1,7 @@
+/Users/krittamettanboontor/work/TTB/CRM_Microservices_FEO/src/main/java/com/crm/feo/CRM_FEO_Application.java
+/Users/krittamettanboontor/work/TTB/CRM_Microservices_FEO/src/main/java/com/crm/feo/controller/CustomerRequestController.java
+/Users/krittamettanboontor/work/TTB/CRM_Microservices_FEO/src/main/java/com/crm/feo/controller/TriggerController.java
+/Users/krittamettanboontor/work/TTB/CRM_Microservices_FEO/src/main/java/com/crm/feo/model/CustomerRequest.java
+/Users/krittamettanboontor/work/TTB/CRM_Microservices_FEO/src/main/java/com/crm/feo/model/RequestStatus.java
+/Users/krittamettanboontor/work/TTB/CRM_Microservices_FEO/src/main/java/com/crm/feo/repository/CustomerRequestRepository.java
+/Users/krittamettanboontor/work/TTB/CRM_Microservices_FEO/src/main/java/com/crm/feo/service/CustomerRequestService.java

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee7ccc05-1dd7-4eca-a6b8-67923d8452de" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Dockerfile" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CRM_Microservices_BEO/src/test/java/CustomerRequestControllerTest.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2s7Al91RYplMcqZcpuGYXVJXb2i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CRM_BEO_Application.executor": "Run",
+    "Application.CRM_CRUD_Application.executor": "Run",
+    "Application.CRM_FEO_Application.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
+    "JUnit.BEOTest.executor": "Run",
+    "JUnit.BackEndOfficeTest (1).executor": "Run",
+    "JUnit.BackEndOfficeTest.executor": "Run",
+    "JUnit.BackEndOfficeTestUnit (1).executor": "Run",
+    "JUnit.BackEndOfficeTestUnit.executor": "Run",
+    "JUnit.CustomerRequestControllerTest (1).executor": "Run",
+    "JUnit.CustomerRequestControllerTest.executor": "Run",
+    "JUnit.CustomerRequestControllerTest.testUpdateStatus.executor": "Run",
+    "JUnit.CustomerRequestServiceTest.executor": "Run",
+    "JUnit.CustomerRequestServiceTest.testUpdateStatus.executor": "Debug",
+    "JUnit.FrontEndOfficeTest.executor": "Run",
+    "JUnit.FrontEndOfficeTestUnit.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "22",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/crm/beo",
+    "onboarding.tips.debug.path": "/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CRM_Microservices_BEO/src/main/java/com/crm/beo" />
+      <recent name="$PROJECT_DIR$/CRM_Microservices_BEO/src/main/resources" />
+      <recent name="$PROJECT_DIR$/CRM_CRUD/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CRM_FEO_Application">
+    <configuration name="CRM_BEO_Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crm.beo.CRM_BEO_Application" />
+      <module name="CRM_Microservices_BEO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.beo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CRM_FEO_Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crm.feo.CRM_FEO_Application" />
+      <module name="CRM_Microservices_FEO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.feo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackEndOfficeTestUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CRM_Microservices_BEO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.beo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.beo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.crm.beo.controller.BackEndOfficeTestUnit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontEndOfficeTestUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CRM_Microservices_FEO" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FrontEndOfficeTestUnit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FrontEndOfficeTestUnit" />
+        <item itemvalue="JUnit.BackEndOfficeTestUnit" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee7ccc05-1dd7-4eca-a6b8-67923d8452de" name="Changes" comment="" />
+      <created>1737796387584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737796387584</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/CRM_CRUD_Application.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/controller/SaleController.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/model/Customer.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/model/Sale.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/model/dto/CustomerDTO.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/model/dto/CustomerSalesDTO.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/model/dto/SaleDTO.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/repository/CustomerRepository.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/repository/SaleRepository.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/service/CustomerService.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/service/DataGeneratorApplication.java
+/Users/krittamettanboontor/work/TTB/CRM_CRUD/src/main/java/com/crm/service/SaleService.java
