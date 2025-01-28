@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  mssql-server:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mssql_server
+    ports:
+      - "1433:1433"
+    environment:
+      ACCEPT_EULA: "Y" # Required to accept Microsoft's End-User License Agreement
+      MSSQL_SA_PASSWORD: "YourStrongPassword123" # Replace with a strong password
+      MSSQL_PID: "Developer" # Use Developer edition for development and testing
+    volumes:
+      - mssql_data:/var/opt/mssql
+    restart: always
+
+volumes:
+  mssql_data:
