@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee7ccc05-1dd7-4eca-a6b8-67923d8452de" name="Changes" comment="" />
+    <list default="true" id="ee7ccc05-1dd7-4eca-a6b8-67923d8452de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_1_2025_AD,_23_16_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_1_2025_AD__23_16__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmAndProblemSolving/AlgorithmAndProblemSolving.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRM_CRUD/CRM_CRUD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRM_Microservices_BEO/CRM_Microservices_BEO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRM_Microservices_FEO/CRM_Microservices_FEO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TTB.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +54,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,14 +91,14 @@
     "JUnit.FrontEndOfficeTest.executor": "Run",
     "JUnit.FrontEndOfficeTestUnit.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "22",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/crm/beo",
     "onboarding.tips.debug.path": "/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
 }]]></component>
