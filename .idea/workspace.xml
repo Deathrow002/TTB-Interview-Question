@@ -71,37 +71,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CRM_BEO_Application.executor": "Run",
-    "Application.CRM_CRUD_Application.executor": "Run",
-    "Application.CRM_FEO_Application.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
-    "JUnit.BEOTest.executor": "Run",
-    "JUnit.BackEndOfficeTest (1).executor": "Run",
-    "JUnit.BackEndOfficeTest.executor": "Run",
-    "JUnit.BackEndOfficeTestUnit (1).executor": "Run",
-    "JUnit.BackEndOfficeTestUnit.executor": "Run",
-    "JUnit.CustomerRequestControllerTest (1).executor": "Run",
-    "JUnit.CustomerRequestControllerTest.executor": "Run",
-    "JUnit.CustomerRequestControllerTest.testUpdateStatus.executor": "Run",
-    "JUnit.CustomerRequestServiceTest.executor": "Run",
-    "JUnit.CustomerRequestServiceTest.testUpdateStatus.executor": "Debug",
-    "JUnit.FrontEndOfficeTest.executor": "Run",
-    "JUnit.FrontEndOfficeTestUnit.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "22",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/crm/beo",
-    "onboarding.tips.debug.path": "/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CRM_BEO_Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CRM_CRUD_Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CRM_FEO_Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BEOTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BackEndOfficeTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BackEndOfficeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BackEndOfficeTestUnit (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BackEndOfficeTestUnit.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CustomerRequestControllerTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CustomerRequestControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CustomerRequestControllerTest.testUpdateStatus.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CustomerRequestServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CustomerRequestServiceTest.testUpdateStatus.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.FrontEndOfficeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FrontEndOfficeTestUnit.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;22&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/crm/beo&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CRM_Microservices_BEO/src/main/java/com/crm/beo" />
@@ -112,7 +112,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CRM_FEO_Application">
+  <component name="RunManager" selected="Application.CRM_BEO_Application">
     <configuration name="CRM_BEO_Application" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.crm.beo.CRM_BEO_Application" />
       <module name="CRM_Microservices_BEO" />
