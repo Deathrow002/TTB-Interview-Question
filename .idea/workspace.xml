@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee7ccc05-1dd7-4eca-a6b8-67923d8452de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_1_2025_AD,_23_16_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_1_2025_AD__23_16__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmAndProblemSolving/AlgorithmAndProblemSolving.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRM_CRUD/CRM_CRUD.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRM_Microservices_BEO/CRM_Microservices_BEO.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRM_Microservices_FEO/CRM_Microservices_FEO.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TTB.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="ee7ccc05-1dd7-4eca-a6b8-67923d8452de" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,42 +49,45 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2s7Al91RYplMcqZcpuGYXVJXb2i" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CRM_BEO_Application.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CRM_CRUD_Application.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CRM_FEO_Application.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Docker.docker-compose.yml: Compose Deployment.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BEOTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BackEndOfficeTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BackEndOfficeTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BackEndOfficeTestUnit (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BackEndOfficeTestUnit.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CustomerRequestControllerTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CustomerRequestControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CustomerRequestControllerTest.testUpdateStatus.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CustomerRequestServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CustomerRequestServiceTest.testUpdateStatus.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.FrontEndOfficeTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FrontEndOfficeTestUnit.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;22&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/crm/beo&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.CRM_BEO_Application.executor": "Run",
+    "Application.CRM_CRUD_Application.executor": "Run",
+    "Application.CRM_FEO_Application.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
+    "JUnit.BEOTest.executor": "Run",
+    "JUnit.BackEndOfficeTest (1).executor": "Run",
+    "JUnit.BackEndOfficeTest.executor": "Run",
+    "JUnit.BackEndOfficeTestUnit (1).executor": "Run",
+    "JUnit.BackEndOfficeTestUnit.executor": "Run",
+    "JUnit.CustomerRequestControllerTest (1).executor": "Run",
+    "JUnit.CustomerRequestControllerTest.executor": "Run",
+    "JUnit.CustomerRequestControllerTest.testUpdateStatus.executor": "Run",
+    "JUnit.CustomerRequestServiceTest.executor": "Run",
+    "JUnit.CustomerRequestServiceTest.testUpdateStatus.executor": "Debug",
+    "JUnit.FrontEndOfficeTest.executor": "Run",
+    "JUnit.FrontEndOfficeTestUnit.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "22",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/crm/beo",
+    "onboarding.tips.debug.path": "/Users/krittamettanboontor/work/TTB/CRM_Microservices_BEO/src/main/java/com/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/CRM_Microservices_BEO/src/main/java/com/crm/beo" />
@@ -109,6 +95,7 @@
       <recent name="$PROJECT_DIR$/CRM_CRUD/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CRM_Microservices_BEO" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -195,5 +182,8 @@
       <updated>1737796387584</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
