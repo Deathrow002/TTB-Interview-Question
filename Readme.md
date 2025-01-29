@@ -14,6 +14,6 @@ This repository contains various modules for the TTB interview question. Each mo
    - [CRM Microservices FEO](./CRM_Microservices_FEO/Readme.md)
    - [CRM Microservices BEO](./CRM_Microservices_BEO/Readme.md)
 
-   - CRM platform Diagram
+     CRM platform Diagram
 
 ![CRM Platform Diagram](https://github.com/Deathrow002/TTB-Interview-Question/blob/main/CRM%20platform.png)
