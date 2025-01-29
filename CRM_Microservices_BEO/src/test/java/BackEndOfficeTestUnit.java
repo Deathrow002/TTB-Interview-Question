@@ -1,9 +1,9 @@
-package com.crm.beo.controller;
-
 import com.crm.beo.CRM_BEO_Application;
 import com.crm.beo.model.CustomerRequest;
 import com.crm.beo.model.RequestStatus;
 import com.crm.beo.service.CustomerRequestService;
+import com.crm.beo.controller.CustomerRequestController;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
