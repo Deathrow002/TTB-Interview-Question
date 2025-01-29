@@ -2,8 +2,6 @@
 
 This repository contains various modules for the TTB interview question. Each module has its own Readme file with detailed information.
 
-![TTB Interview Question](https://github.com/Deathrow002/TTB-Interview-Question/blob/main/CRM%20platform.png)
-
 ## Question Modules
 
 1. **Algorithm and Problem Solving**
