@@ -148,7 +148,7 @@ The CRM (Customer Relationship Management) CRUD Application is a Spring Boot-bas
 						}
 					}
 				},
-				"url": "http://localhost:8081/api/sales/top-sales"
+				"url": "http://localhost:8080/api/sales/top-sales"
 			},
 			"response": []
 		}
